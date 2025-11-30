@@ -49,7 +49,7 @@ O sistema é operado através de um menu de console que oferece 7 opções:
 
 1.  **Clone o Repositório:** (Assumindo que o código será versionado)
     ```bash
-    git clone https://docs.github.com/pt/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github
+    git clone https://github.com/brunotxrs/Bootcamp-POO-JAVA
     cd nome-do-projeto
     ```
 2.  **Abrir na IDE:** Importe a estrutura do projeto para sua IDE.
